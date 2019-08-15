@@ -31,3 +31,16 @@
     transform: rotate(360deg);
   }
 }
+
+.ui.animated.button{
+  background:#0F2027;
+  color:whitesmoke;
+  margin-right:10px;
+  margin-left:10px;
+}
+
+.ui.block.header{
+  background-color:black !important;
+  color:whitesmoke;
+  border:none !important;
+}
